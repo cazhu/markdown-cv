@@ -44,8 +44,7 @@ __PhD, Queen's University, Kingston__
 __CFA Candidate Lv2__
 
 
-
-## Awards
+## Projects
 
 ## Publications
 
