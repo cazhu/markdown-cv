@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: I Newtons's CV
+title: My CV
 ---
-# Isaac Newton
+# Chris Chunyang Zhu
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
