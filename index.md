@@ -6,7 +6,7 @@ title: About Me
 Data Scientist, Programmer, Modeler.
 
 <div id="webaddress">
-chunyang.zhu(at)rbc.com
+chunyang.zhu(at)rbc.com | cazhu.github.io
 | <a href="https://www.linkedin.com/in/chunyang-zhu-72094458/">My LinkedIn</a>
 </div>
 
@@ -20,7 +20,7 @@ Senior analyst @RBC
 Statistical modeling, large-scale data engineering, risk management.
 
 ### tech
-Python, SAS, R, SQL, Git
+Python, R, SQL
 
 ## experience
 
@@ -41,7 +41,7 @@ __Canadian Centre for Economic Analysis__, Toronto | *Management Consulting*
 ## education
 
 `2016`
-__PhD, Queen's University, Kingston__
+__PhD, Polymer Science, Queen's University (Kingston)__
 
 `2017`
 __CFA Candidate Lv2__
