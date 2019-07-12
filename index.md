@@ -6,7 +6,7 @@ title: About Me
 Data Scientist, Programmer, Modeler.
 
 <div id="webaddress">
-<a href="chunyang.zhu@rbc.com">chunyang.zhu@rbc.com</a>
+chunyang.zhu(at)rbc.com
 | <a href="https://www.linkedin.com/in/chunyang-zhu-72094458/">My LinkedIn</a>
 </div>
 
