@@ -11,11 +11,11 @@ Data Scientist, Programmer, Modeler.
 </div>
 
 
-## Currently
+## currently
 
 Senior analyst @RBC
 
-### Specialized in
+### specialized in
 
 Statistical modeling, large-scale data engineering, risk management.
 
@@ -38,7 +38,7 @@ __Canadian Centre for Economic Analysis__, Toronto | *Management Consulting*
 - Business model optimization using agent-based modelling and econometric analysis
 - Data visualization for market analysis, policy evaluation and risk management
 
-## Education
+## education
 
 `2016`
 __PhD, Queen's University, Kingston__
@@ -47,7 +47,7 @@ __PhD, Queen's University, Kingston__
 __CFA Candidate Lv2__
 
 
-## Projects
+## projects
 TBA
 
 
