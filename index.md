@@ -3,7 +3,7 @@ layout: cv
 title: About Me
 ---
 # Chris Chunyang Zhu
-Data Scientist, Python Programmer, Learner.
+Data Scientist, Programmer, Modeler.
 
 <div id="webaddress">
 <a href="chunyang.zhu@rbc.com">chunyang.zhu@rbc.com</a>
@@ -13,13 +13,16 @@ Data Scientist, Python Programmer, Learner.
 
 ## Currently
 
-Senior Analyst @RBC
+Senior analyst @RBC
 
 ### Specialized in
 
 Statistical modeling, large-scale data engineering, risk management.
 
-## Experience
+### tech
+Python, SAS, R, SQL, Git
+
+## experience
 
 `2018 - Present`
 __Royal Bank of Canada__, Toronto | *Financial Service*
@@ -45,7 +48,7 @@ __CFA Candidate Lv2__
 
 
 ## Projects
+TBA
 
-## Publications
 
 
