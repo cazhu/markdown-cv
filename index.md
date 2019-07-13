@@ -50,5 +50,19 @@ __CFA Candidate Lv2__
 ## projects
 TBA
 
+## publication
+
+Torres‐Rocha, O.L., Wu, X., **Zhu, C.**, Crudden, C.M. and Cunningham, M.F., 2019. Polymerization‐Induced Self‐Assembly (PISA) of 1, 5‐Cyclooctadiene Using Ring Opening Metathesis Polymerization. Macromolecular rapid communications, 40(2), p.1800326.
+
+Torres‐Rocha, O.L., Wu, X., **Zhu, C.**, Crudden, C.M. and Cunningham, M.F., 2019. Synthesis of Diblock and Triblock Polymers from Cyclooctadiene and Norbornene Via ROMP in Miniemulsion. Macromolecular rapid communications, p.1900087.
+
+**Zhu, C.**, Wu, X., Zenkina, O., Zamora, M.T., Moffat, K., Crudden, C.M. and Cunningham, M.F., 2018. Ring-Opening Metathesis Polymerization in Miniemulsion Using a TEGylated Ruthenium-Based Metathesis Catalyst. Macromolecules, 51(22), pp.9088-9096.
+
+**Zhu, C.**, 2016. Preparation of Polymer Nanoparticles by Ring Opening Metathesis Polymerization in Aqueous Dispersed Systems with Water-Soluble Ruthenium-based Catalyst(Doctoral dissertation).
+
+**Zhu, C.**, Zhao, W., He, C., Ma, L. and Zhao, C., 2013. Molecular imprinted polysulfone membranes for the sieving, binding, and recognition of bisphenol A. International Journal of Polymeric Materials, 62(1), pp.17-22.
+
+
+
 
 
