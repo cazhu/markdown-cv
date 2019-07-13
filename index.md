@@ -48,7 +48,22 @@ __CFA Candidate Lv2__
 
 
 ## projects
-TBA
+
+__Risk Parameters Estimation Framework__
+- Contributed directly to the risk management and the regulatory compliance of the Canadian Banking business via the modeling, implementation and monitoring of risk parameters.
+- Research, development, and deployment of comprehensive account level PD, EAD and LGD parameter models that consider borrower’s credit characteristics, account’s current features, and macro-economic environments. 
+- Assisted in evaluating capital requirement and related return measurements of various business strategy and product segments; identify potential weakness and make informed recommendations.
+
+__Predictive analysis of housing affordability in Ontario__
+- Coded, validated, tested, implemented and documented statistical models using historical data. Focused on analyzing the features affecting the value of properties in Ontario.
+- Improved the model robustness and accuracy (compared to GLM) using ensemble models.
+- Collaborated closely with senior consultants to deliver business reports (non-technical). Implemented data visualization using d3.js. 
+
+__Predictive analysis of parking violation behavior in Toronto__	
+- Processed 2.8 million parking violation records with Google Map API and transformed datasets into 50+ feature vectors for - machine learning.
+- Worked closely with data engineers to import new features from external data sources. 
+- Analyzed and predicted parking violation behavior using gradient boosting. Improved the model quality by cross validation and hyper-parameter tuning.
+
 
 ## publication
 
