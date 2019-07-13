@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: About Me
+layout: Chunyang Zhu
+title: Chris
 ---
 # Chris Chunyang Zhu
 Data Scientist, Programmer, Modeler.
