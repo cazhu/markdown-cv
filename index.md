@@ -1,5 +1,5 @@
 ---
-layout: Chunyang Zhu
+layout: CV
 title: Chris
 ---
 # Chris Chunyang Zhu
